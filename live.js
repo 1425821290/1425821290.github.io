@@ -1,1 +1,3 @@
-console.log('脚本加载成功')
+(function() {
+  console.log('脚本加载成功')
+})()
